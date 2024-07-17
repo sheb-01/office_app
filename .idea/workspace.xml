@@ -5,35 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d8d5206-395d-47c3-bb7f-1f44dc447bce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/office/coordination/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/office/coordination/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/office/coordination/config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/office/coordination/controller/OfficeDayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/office/coordination/model/OfficeDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/office/coordination/repository/OfficeDayRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/office/coordination/service/OfficeDayService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworldneil" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/package-lock-UK-MG9QXW660H.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/src/components/UserList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_app/public/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coordination-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coordination-app/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coordination-app/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coordination-app/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coordination-app/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coordination-app/src/main/java/office/coordination/app/CoordinationAppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coordination-app/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coordination-app/src/test/java/office/coordination/app/CoordinationAppApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/office/coordination/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/office/coordination/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/office/coordination/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/office/coordination/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.migration/V1__init.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.migration/V1__init.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/User.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db.migration/V1__init.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db.migration/V1__init.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/office/coordination/config/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/office/coordination/controller/UserController$User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/office/coordination/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-office.coordination.app.CoordinationAppApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/office.coordination.app.CoordinationAppApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/office/coordination/app/CoordinationAppApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +81,10 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="CoordinationAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="DB_USERNAME" value="shirinebrahimi" />
+        <env name="DB_PASSWORD" value="office_coordination_app" />
+      </envs>
       <option name="MAIN_CLASS_NAME" value="office.coordination.app.CoordinationAppApplication" />
       <module name="coordination-app" />
       <extension name="coverage">

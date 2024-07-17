@@ -1,13 +1,7 @@
-DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS office_day;
 
-CREATE TABLE users (
-    id SERIAL PRIMARY KEY,
-    username text
-    );
-
-DROP TABLE IF EXISTS schedules;
-
-CREATE TABLE schedules (
-    id SERIAL PRIMARY KEY,
-    date date
-    );
+CREATE TABLE office_day (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(255) NOT NULL,
+    date DATE NOT NULL
+);
