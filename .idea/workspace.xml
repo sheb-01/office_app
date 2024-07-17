@@ -5,13 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d8d5206-395d-47c3-bb7f-1f44dc447bce" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/office/coordination/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/office/coordination/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworldneil" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/package-lock-UK-MG9QXW660H.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/src/components/UserList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app/public/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,29 +56,44 @@
     <setting file="file://$PROJECT_DIR$/src/main/resources/db.migration/V1__init.sql" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="2jKXmkBDgfcuRI5mw6UGy3xBEJm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CoordinationAppApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/yuanmengliu/Downloads/office_app"
+  }
+}]]></component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="CoordinationAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="office.coordination.app.CoordinationAppApplication" />
+      <module name="coordination-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="office.coordination.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoordinationAppApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
